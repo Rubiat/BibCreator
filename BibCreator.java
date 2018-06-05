@@ -4,12 +4,6 @@
  * .json files */
 // --------------------------------------------------------------------------
 
-/** Rubiat Zaman
- * 	Comp 249
- * 	Assignment 3
- * 	Due Date: 19/03/2018
- * */
-
 package Assignment3;
 
 import java.io.BufferedReader;
