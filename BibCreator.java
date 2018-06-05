@@ -1,6 +1,5 @@
 // --------------------------------------------------------------------------
-// Assignment 3 
-// Written by Rubiat Zaman, 40062082
+// Written by Rubiat Zaman
 /* This program reads 10 files and writes the contents of the valid files into 3 separate 
  * .json files */
 // --------------------------------------------------------------------------
