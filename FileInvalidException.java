@@ -9,11 +9,11 @@ public class FileInvalidException extends Exception {
 	}
 	
 	public FileInvalidException (String s) {
-		this.s = s;
+		super(s);
 	}
 	
 	public FileInvalidException (int i) {
-		this.s = "Problem detected with input file: Latex" + i + ".bib";
+		super("Problem detected with input file: Latex" + i + ".bib");
 	}
 	
 	public String getMessage() {
